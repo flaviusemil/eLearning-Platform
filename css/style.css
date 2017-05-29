@@ -1,0 +1,24 @@
+/* line 1, /root/Desktop/e-Learning Platform/css/style.scss */
+.modal-footer {
+  text-align: center !important; }
+
+/* line 5, /root/Desktop/e-Learning Platform/css/style.scss */
+*:focus {
+  outline: none !important; }
+
+/* line 9, /root/Desktop/e-Learning Platform/css/style.scss */
+input[type="checkbox"] {
+  outline: none !important; }
+
+/* line 13, /root/Desktop/e-Learning Platform/css/style.scss */
+input[type="checkbox"] + span {
+  font-size: .98em;
+  outline: none; }
+
+/* line 18, /root/Desktop/e-Learning Platform/css/style.scss */
+.terms {
+  margin-top: 10px;
+  font-size: 10px;
+  color: #355368; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,22 @@
+.modal-footer {
+	text-align: center !important;
+}
+
+*:focus {
+	outline: none !important;
+}
+
+input[type="checkbox"] {
+	outline: none !important;
+}
+
+input[type="checkbox"] + span {
+	font-size: .98em;
+	outline: none;
+}
+
+.terms {
+	margin-top: 10px;
+	font-size: 10px;
+	color: #355368;
+}
